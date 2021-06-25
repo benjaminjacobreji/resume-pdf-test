@@ -1,13 +1,13 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
+  FirstName: Test
+  LastName: LastName
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-phone
       Info: +44 123 456 789
     - Icon: fas fa-envelope
       Info: contact@ines-almeida.com
-    - Icon: fas fa-globe
+    - Icon: fab fa-github
       Info: ines-almeida.com
     - Icon: fas fa-map-marker-alt
       Info: Portugal
