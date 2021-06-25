@@ -5,7 +5,7 @@ BasicInfo:
   Contacts:
     - Icon: fas fa-phone
       Info: +44 123 456 789
-    - Icon: fas fa-envelope
+    - Icon: fab fa-linkedin
       Info: contact@ines-almeida.com
     - Icon: fab fa-github
       Info: ines-almeida.com
